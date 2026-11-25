@@ -12,7 +12,7 @@ The NNV fonts draw the Nôm characters that the calligraphy fonts used on [Nôm 
 
 ## Download
 
-To install the fonts on your computer, download `nnv-fonts-ttf.zip` from the [latest release](https://github.com/nomnaviet/nnv-fonts/releases/latest): all seven as .ttf, with the licences. Double-click a .ttf and choose Install. The .woff2 files in `fonts/` are for websites.
+To install the fonts on your computer, download `nnv-fonts-ttf.zip` from the [latest release](https://github.com/nomnaviet/nnv-fonts/releases/latest): every font as .ttf, with the licences. Double-click a .ttf and choose Install. The .woff2 files in `fonts/` are for websites.
 
 ## Lệnh thư
 
