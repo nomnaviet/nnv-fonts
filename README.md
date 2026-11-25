@@ -10,6 +10,10 @@ The NNV fonts draw the Nôm characters that the calligraphy fonts used on [Nôm 
 | Lệ | [WHT Zhong Lishu](https://github.com/dictcp/wangfonts) (GPL v2) | `NNVLeNom.woff2` | 7,356 | GPL v2 or later |
 | Triện | [Chong Xi Small Seal](https://xiaoxue.iis.sinica.edu.tw/chongxi/download.htm) (CC BY-ND 3.0 TW) | `NNVTrienNom.woff2` | 8,027 | OFL 1.1 |
 
+## Download
+
+To install the fonts on your computer, download `nnv-fonts-ttf.zip` from the [latest release](https://github.com/nomnaviet/nnv-fonts/releases/latest): all seven as .ttf, with the licences. Double-click a .ttf and choose Install. The .woff2 files in `fonts/` are for websites.
+
 ## Lệnh thư
 
 Lệnh thư is the script of the Lê dynasty's royal decrees (sắc phong). No font drew it, so NNV Lenh Nom is not a filler like the fonts above: it is the whole style, with no lead font. Use it first, then Han-Nom Khai for anything it lacks.
