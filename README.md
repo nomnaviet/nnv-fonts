@@ -10,7 +10,24 @@ The NNV fonts draw the Nôm characters that the calligraphy fonts used on [Nôm 
 | Lệ | [WHT Zhong Lishu](https://github.com/dictcp/wangfonts) (GPL v2) | `NNVLeNom.woff2` | 7,356 | GPL v2 or later |
 | Triện | [Chong Xi Small Seal](https://xiaoxue.iis.sinica.edu.tw/chongxi/download.htm) (CC BY-ND 3.0 TW) | `NNVTrienNom.woff2` | 8,027 | OFL 1.1 |
 
-The glyphs are generated from NomNaTong (MIT) by a model trained on each style's font: Han-Nom Khai, WHT Hsing Shu, Liu Jian Mao Cao, WHT Zhong Lishu, and Kaiyuan Small Seal (OFL) for Triện. Some are wrong, Triện most of all: report one at support@nomnaviet.com.
+## Lệnh thư
+
+Lệnh thư is the script of the Lê dynasty's royal decrees (sắc phong). No font drew it, so NNV Lenh Nom is not a filler like the fonts above: it is the whole style, with no lead font. Use it first, then Han-Nom Khai for anything it lacks.
+
+| Font | Characters | Licence |
+|---|---|---|
+| `NNVLenhNom.woff2` | 8,623: every character the texts on Nôm Na Việt use that Han-Nom Khai or NNV Khai Nom draws, Nôm and Hán | OFL 1.1 |
+| `NNVLenhNomExt.woff2` | 22,885 more Hán characters, the rest of what Han-Nom Khai and NNV Khai Nom draw | OFL 1.1 |
+
+Its glyphs are generated from Han-Nom Khai and NNV Khai Nom (both OFL) by a model trained on characters cut from photos of Lê-dynasty decrees in the public-domain [Sắc phong Việt Nam](https://archive.org/details/1222052298803856) collection on the Internet Archive, photos credited there to a [Facebook group](https://www.facebook.com/groups/423701537299844).
+
+```css
+.lenh { font-family: 'NNV Lenh Nom', 'NNV Lenh Nom Ext', 'Han-Nom Khai', 'NNV Khai Nom'; }
+```
+
+## About the glyphs
+
+The glyphs of the five fonts above are generated from NomNaTong (MIT) by a model trained on each style's font: Han-Nom Khai, WHT Hsing Shu, Liu Jian Mao Cao, WHT Zhong Lishu, and Kaiyuan Small Seal (OFL) for Triện. Some are wrong in every font, Triện most of all: report one at support@nomnaviet.com.
 
 ## Use
 
@@ -23,7 +40,7 @@ The glyphs are generated from NomNaTong (MIT) by a model trained on each style's
 .hanh { font-family: 'WHT Hsing Shu', 'NNV Hanh Nom', 'NomNaTong'; }
 ```
 
-Host the files yourself, or load them from jsDelivr, which serves this repository: `https://cdn.jsdelivr.net/gh/nomnaviet/nnv-fonts@v1/fonts/NNVHanhNom.woff2`. Please don't link to the copies on nomnaviet.com.
+Host the files yourself, or load them from jsDelivr, which serves this repository: `https://cdn.jsdelivr.net/gh/nomnaviet/nnv-fonts@v2/fonts/NNVHanhNom.woff2`. Please don't link to the copies on nomnaviet.com.
 
 ## Versions
 
@@ -31,7 +48,7 @@ Each release is a tag (`v1`, `v2`, …). Pin a tag in jsDelivr URLs, and watch t
 
 ## Licences and source
 
-- NNV Khai Nom, NNV Thao Nom and NNV Trien Nom: SIL Open Font License 1.1 (`licenses/OFL.txt`).
+- NNV Khai Nom, NNV Thao Nom, NNV Trien Nom, NNV Lenh Nom and NNV Lenh Nom Ext: SIL Open Font License 1.1 (`licenses/OFL.txt`).
 - NNV Hanh Nom and NNV Le Nom: GNU General Public License v2 or later (`licenses/GPL-2.0.txt`), the licence of the WHT fonts they sit beside. Their complete source, the glyph images and the script that builds each font from them, is `nnv-hanh-le-source.zip` on each release.
 - Their NomNaTong parts are also MIT (`licenses/MIT-NomNaTong.txt`).
 
