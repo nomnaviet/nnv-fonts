@@ -58,5 +58,6 @@ Each release is a tag (`v1`, `v2`, …). Pin a tag in jsDelivr URLs, and watch t
 - NNV Khai Nom, NNV Thao Nom, NNV Trien Nom, NNV Giao Khoa Nom, NNV Lenh Nom and NNV Lenh Nom Ext: SIL Open Font License 1.1 (`licenses/OFL.txt`).
 - NNV Hanh Nom and NNV Le Nom: GNU General Public License v2 or later (`licenses/GPL-2.0.txt`), the licence of the WHT fonts they sit beside. Their complete source, the glyph images and the script that builds each font from them, is `nnv-hanh-le-source.zip` on each release.
 - Their NomNaTong parts are also MIT (`licenses/MIT-NomNaTong.txt`).
+- `licenses/OFL.txt` also carries the copyright notices of the OFL fonts they derive from: Han-Nom Khai, LXGW WenKai TC, Plangothic and (in the Thảo .ttf) Liu Jian Mao Cao.
 
 Credit: "NNV fonts by Nôm Na Việt (nomnaviet.com)", with each font's licence.
