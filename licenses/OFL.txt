@@ -10,7 +10,7 @@ Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee
 NNV Thao Nom, NNV Trien Nom and NNV Giao Khoa Nom draw the few characters NomNaTong lacks from Plangothic:
 Copyright (c) 2024 by Fitzgerald P. Köeingsegg, SIL Open Font License 1.1.
 
-NNV Thao Nom's glyphs were learned from Liu Jian Mao Cao, and its .ttf copies Latin letters from it:
+NNV Thao Nom's glyphs were learned from Liu Jian Mao Cao, and its .ttf copies the Latin letters Liu Jian Mao Cao has (the rest from LXGW WenKai TC):
 Copyright 2018 The Liu Jian Mao Cao Project Authors (https://www.github.com/googlefonts/liujianmaocao), SIL Open Font License 1.1.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
