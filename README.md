@@ -9,6 +9,7 @@ The NNV fonts draw the Nôm characters that the calligraphy fonts used on [Nôm 
 | Thảo | [Liu Jian Mao Cao](https://fonts.google.com/specimen/Liu+Jian+Mao+Cao) (OFL) | `NNVThaoNom.woff2` | 9,785 | OFL 1.1 |
 | Lệ | [WHT Zhong Lishu](https://github.com/dictcp/wangfonts) (GPL v2) | `NNVLeNom.woff2` | 7,356 | GPL v2 or later |
 | Triện | [Chong Xi Small Seal](https://xiaoxue.iis.sinica.edu.tw/chongxi/download.htm) (CC BY-ND 3.0 TW) | `NNVTrienNom.woff2` | 8,027 | OFL 1.1 |
+| Giáo khoa | [LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC) (OFL) | `NNVGiaoKhoaNom.woff2` | 5,430 | OFL 1.1 |
 
 ## Download
 
@@ -31,7 +32,7 @@ Its glyphs are generated from Han-Nom Khai and NNV Khai Nom (both OFL) by a mode
 
 ## About the glyphs
 
-The glyphs of the five fonts above are generated from NomNaTong (MIT) by a model trained on each style's font: Han-Nom Khai, WHT Hsing Shu, Liu Jian Mao Cao, WHT Zhong Lishu, and Kaiyuan Small Seal (OFL) for Triện. Some are wrong in every font, Triện most of all: report one at support@nomnaviet.com.
+The glyphs of the six fonts above are generated from NomNaTong (MIT), or in the OFL fonts Plangothic (OFL) for the few it lacks, by a model trained on each style's font: Han-Nom Khai, WHT Hsing Shu, Liu Jian Mao Cao, WHT Zhong Lishu, Kaiyuan Small Seal (OFL) for Triện, and LXGW WenKai TC. Giáo khoa (教科書, textbook script) is a pen hand rather than a brush one, for learners. Some are wrong in every font, Triện most of all: report one at support@nomnaviet.com.
 
 ## Use
 
@@ -46,7 +47,7 @@ The glyphs of the five fonts above are generated from NomNaTong (MIT) by a model
 
 You don't need a `unicode-range`: the browser uses each font for the characters it has and falls through to the next for the rest. If you add one (to load a font only for the characters it covers), make it the font's cmap exactly and update it when you update the font: a browser asks a face only for the characters in its range, so a range older than the font leaves the newer characters in the next font of the stack.
 
-Host the files yourself, or load them from jsDelivr, which serves this repository: `https://cdn.jsdelivr.net/gh/nomnaviet/nnv-fonts@v2/fonts/NNVHanhNom.woff2`. Please don't link to the copies on nomnaviet.com.
+Host the files yourself, or load them from jsDelivr, which serves this repository: `https://cdn.jsdelivr.net/gh/nomnaviet/nnv-fonts@v3/fonts/NNVHanhNom.woff2`. Please don't link to the copies on nomnaviet.com.
 
 ## Versions
 
@@ -54,8 +55,9 @@ Each release is a tag (`v1`, `v2`, …). Pin a tag in jsDelivr URLs, and watch t
 
 ## Licences and source
 
-- NNV Khai Nom, NNV Thao Nom, NNV Trien Nom, NNV Lenh Nom and NNV Lenh Nom Ext: SIL Open Font License 1.1 (`licenses/OFL.txt`).
+- NNV Khai Nom, NNV Thao Nom, NNV Trien Nom, NNV Giao Khoa Nom, NNV Lenh Nom and NNV Lenh Nom Ext: SIL Open Font License 1.1 (`licenses/OFL.txt`).
 - NNV Hanh Nom and NNV Le Nom: GNU General Public License v2 or later (`licenses/GPL-2.0.txt`), the licence of the WHT fonts they sit beside. Their complete source, the glyph images and the script that builds each font from them, is `nnv-hanh-le-source.zip` on each release.
 - Their NomNaTong parts are also MIT (`licenses/MIT-NomNaTong.txt`).
+- `licenses/OFL.txt` also carries the copyright notices of the OFL fonts they derive from: Han-Nom Khai, LXGW WenKai TC, Plangothic and (in the Thảo .ttf) Liu Jian Mao Cao.
 
 Credit: "NNV fonts by Nôm Na Việt (nomnaviet.com)", with each font's licence.
