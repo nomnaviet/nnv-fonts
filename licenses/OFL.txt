@@ -1,16 +1,16 @@
 Copyright (c) 2026 Nôm Na Việt (https://nomnaviet.com)
 
-NNV Khai Nom, NNV Lenh Nom and NNV Lenh Nom Ext are derived in part from Han-Nom Khai:
-Copyright (c) 2023 UBPSHNVN (Han-Nom Kai by UBPSHNVN), SIL Open Font License 1.1.
+NNV Trien Nom's glyphs were learned from Kaiyuan Small Seal:
+Copyright (c) 2026 Kaiyuan Small Seal Font Contributors (https://github.com/frankslin/kaiyuan-small-seal-font), SIL Open Font License 1.1.
 
-NNV Giao Khoa Nom is derived in part from LXGW WenKai TC (its .ttf also copies its Latin letters):
+NNV Giao Khoa Nom is derived in part from LXGW WenKai TC, and the NNV Trien Nom, NNV Thao Nom and NNV Giao Khoa Nom .ttf files copy Latin letters from it:
 Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenkaiTC)
 Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee), SIL Open Font License 1.1.
 
-NNV Khai Nom, NNV Thao Nom, NNV Trien Nom and NNV Giao Khoa Nom draw the few characters NomNaTong lacks from Plangothic:
+NNV Thao Nom, NNV Trien Nom and NNV Giao Khoa Nom draw the few characters NomNaTong lacks from Plangothic:
 Copyright (c) 2024 by Fitzgerald P. Köeingsegg, SIL Open Font License 1.1.
 
-NNV Thao Nom's .ttf copies its Latin letters from Liu Jian Mao Cao:
+NNV Thao Nom's glyphs were learned from Liu Jian Mao Cao, and its .ttf copies the Latin letters Liu Jian Mao Cao has (the rest from LXGW WenKai TC):
 Copyright 2018 The Liu Jian Mao Cao Project Authors (https://www.github.com/googlefonts/liujianmaocao), SIL Open Font License 1.1.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
