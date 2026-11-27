@@ -1,9 +1,15 @@
 Copyright (c) 2026 Nôm Na Việt (https://nomnaviet.com)
 
+NNV Khai Nom's glyphs were learned from TW-Kai (全字庫正楷體), taken under the SIL Open Font License 1.1 that its name table offers:
+(c)2026 Ministry of Digital Affairs (https://www.cns11643.gov.tw), SIL Open Font License 1.1.
+
+NNV Hanh Nom's glyphs were learned from Zhi Mang Xing:
+Copyright 2018 The Zhi Mang Xing Project Authors (https://github.com/googlefonts/zhimangxing), SIL Open Font License 1.1.
+
 NNV Trien Nom's glyphs were learned from Kaiyuan Small Seal:
 Copyright (c) 2026 Kaiyuan Small Seal Font Contributors (https://github.com/frankslin/kaiyuan-small-seal-font), SIL Open Font License 1.1.
 
-NNV Giao Khoa Nom is derived in part from LXGW WenKai TC, and the NNV Trien Nom, NNV Thao Nom and NNV Giao Khoa Nom .ttf files copy Latin letters from it:
+NNV Giao Khoa Nom is derived in part from LXGW WenKai TC, and the NNV Khai Nom, NNV Hanh Nom, NNV Trien Nom, NNV Thao Nom and NNV Giao Khoa Nom .ttf files copy Latin letters from it:
 Copyright 2022-2026 LXGW (https://github.com/lxgw/LxgwWenkaiTC)
 Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee), SIL Open Font License 1.1.
 
