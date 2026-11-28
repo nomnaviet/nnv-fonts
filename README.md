@@ -53,7 +53,7 @@ The glyphs are generated from NomNaTong (MIT), or Plangothic (OFL) for the few i
 
 You don't need a `unicode-range`: the browser uses each font for the characters it has and falls through to the next for the rest. If you add one (to load a font only for the characters it covers), make it the font's cmap exactly and update it when you update the font: a browser asks a face only for the characters in its range, so a range older than the font leaves the newer characters in the next font of the stack.
 
-Host the files yourself, or load them from jsDelivr, which serves this repository: `https://cdn.jsdelivr.net/gh/nomnaviet/nnv-fonts@v7/fonts/NNVThaoNom.woff2`. Please don't link to the copies on nomnaviet.com.
+Host the files yourself, or load them from jsDelivr, which serves this repository: `https://cdn.jsdelivr.net/gh/nomnaviet/nnv-fonts@v7.1/fonts/NNVThaoNom.woff2`. Please don't link to the copies on nomnaviet.com.
 
 ## Versions
 
