@@ -21,6 +21,14 @@ Copyright (c) 2024 by Fitzgerald P. Köeingsegg, SIL Open Font License 1.1.
 NNV Thao Nom's glyphs were learned from Liu Jian Mao Cao, and its .ttf copies the Latin letters Liu Jian Mao Cao has (the rest from LXGW WenKai TC):
 Copyright 2018 The Liu Jian Mao Cao Project Authors (https://www.github.com/googlefonts/liujianmaocao), SIL Open Font License 1.1.
 
+The complete fonts in the release download contain the whole of a lead font with the NNV characters added, each a modified version released under the SIL Open Font License 1.1 under a new name (none of these fonts declares a Reserved Font Name):
+- NNV Khai: TW-Kai (its main file, and the Ext-B and Ext-G characters Nôm Na Việt shows), with NNV Khai Nom and NNV Khai Nom Ext.
+- NNV Hanh: Zhi Mang Xing, with NNV Hanh Nom.
+- NNV Thao: Liu Jian Mao Cao, with NNV Thao Nom.
+- NNV Trien: Kaiyuan Small Seal (its compat build, on modern characters), with glyphs drawn by the NNV Trien Nom model in Kaiyuan Small Seal's own size.
+- NNV Giao Khoa: LXGW WenKai TC, with NNV Giao Khoa Nom.
+The copyright notices of those fonts are the ones above.
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
