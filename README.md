@@ -12,10 +12,10 @@ From the [latest release](https://github.com/nomnaviet/nnv-fonts/releases/latest
 | Hành | `NNVHanh.ttf` | [Zhi Mang Xing](https://fonts.google.com/specimen/Zhi+Mang+Xing) | 16,651 | 11 MB |
 | Thảo | `NNVThao.ttf` | [Liu Jian Mao Cao](https://fonts.google.com/specimen/Liu+Jian+Mao+Cao) | 17,572 | 13 MB |
 | Triện | `NNVTrien.ttf` | [Kaiyuan Small Seal](https://github.com/frankslin/kaiyuan-small-seal-font) | 30,388 | 39 MB |
-| Lệnh thư | `NNVLenhNom.ttf` | drawn by Nôm Na Việt from decree photos | 46,656 | 46 MB |
+| Lệnh thư | `NNVLenhNom.ttf` | its own style: drawn from TW-Kai and NNV Khai Nom by a model trained on decree photos | 46,656 | 46 MB |
 | Giáo khoa | `NNVGiaoKhoa.ttf` | [LXGW WenKai TC](https://github.com/lxgw/LxgwWenkaiTC) | 31,124 | 21 MB |
 
-Each is its lead font with the Nôm characters it lacks added, Latin and Vietnamese letters included, so Word keeps the font while an input method types. Triện is built on Kaiyuan Small Seal, not on Chong Xi Small Seal, which nomnaviet.com uses: Chong Xi's licence (CC BY-ND) allows no modified copy, so the download looks a little different from the site.
+Each but Lệnh thư is its lead font with the Nôm characters it lacks added; Lệnh thư is a whole style by itself. All six include Latin and Vietnamese letters, so Word keeps the font while an input method types. Lệnh thư lacks six left-女 characters (如 妬 好 奸 妯 𬷲, see below): Word shows them in another font. Triện is built on Kaiyuan Small Seal, not on Chong Xi Small Seal, which nomnaviet.com uses: Chong Xi's licence (CC BY-ND) allows no modified copy, so the download looks a little different from the site.
 
 ## For websites: the NNV fonts
 
